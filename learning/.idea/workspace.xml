@@ -1,54 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="714b0b34-a82c-4829-989b-c197357a3ea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/ubiquant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Antd_React/antd-demo/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/.umirc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/mock/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/app.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/assets/yay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/components/ProductList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/layouts/__tests__/index.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/layouts/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/layouts/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/models/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/models/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/__tests__/index.test.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/products.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/products.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/src/pages/products.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/tslint.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practical_project/typings.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Antd_React/my-app/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="714b0b34-a82c-4829-989b-c197357a3ea1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -105,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Antd_React/antd-demo/config-overrides.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -144,8 +97,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="605" />
-    <option name="y" value="95" />
+    <option name="x" value="194" />
+    <option name="y" value="43" />
     <option name="width" value="1478" />
     <option name="height" value="987" />
   </component>
@@ -188,8 +141,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -215,22 +175,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560850729855</updated>
-      <workItem from="1560850730945" duration="1145000" />
+      <workItem from="1560850730945" duration="2145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1145000" />
+    <option name="totallyTimeSpent" value="2145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="605" y="95" width="1478" height="987" extended-state="0" />
+    <frame x="194" y="43" width="1478" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24982841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32992035" />
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32992035" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -247,6 +207,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Antd_React/readme.md">
@@ -285,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Antd_React/antd-demo/config-overrides.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
